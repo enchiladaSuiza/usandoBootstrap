@@ -1,7 +1,3 @@
-.navbar {
-    text-align: center;
-    color: #025157;
-    font-weight: 500;
-    color: gray("100");
-    background-color: black; 
+nav * {
+    color: lightseagreen;
 }
