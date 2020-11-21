@@ -1,3 +1,8 @@
-nav * {
-    color: lightseagreen;
+.cases {
+    height: 45rem;
+}
+
+.cases img {
+    height: 20rem;
+    width: 20rem;
 }
